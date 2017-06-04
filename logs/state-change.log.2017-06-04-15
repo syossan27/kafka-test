@@ -1,0 +1,5 @@
+[2017-06-04 16:15:24,032] TRACE Broker 1 handling stop replica (delete=false) for partition my-replicated-topic-0 (state.change.logger)
+[2017-06-04 16:15:24,043] TRACE Broker 1 finished handling stop replica (delete=false) for partition my-replicated-topic-0 (state.change.logger)
+[2017-06-04 16:15:24,077] TRACE Broker 1 cached leader info (LeaderAndIsrInfo:(Leader:0,ISR:0,LeaderEpoch:2,ControllerEpoch:1),ReplicationFactor:3),AllReplicas:0,1,2) for partition my-replicated-topic-0 in response to UpdateMetadata request sent by controller 0 epoch 1 with correlation id 11 (state.change.logger)
+[2017-06-04 16:15:24,185] TRACE Broker 1 handling stop replica (delete=false) for partition my-replicated-topic-0 (state.change.logger)
+[2017-06-04 16:15:24,185] TRACE Broker 1 finished handling stop replica (delete=false) for partition my-replicated-topic-0 (state.change.logger)
